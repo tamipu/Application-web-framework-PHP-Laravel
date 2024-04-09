@@ -1,0 +1,25 @@
+/* FILEPATH: /Users/phuongta/lavarel-projects/pws-projet-2024-recettes-ta_zhang/public/css/theme-dark.css */
+
+/* Set the background color to a dark color */
+body.theme-dark {
+    background-color: rgb(90, 88, 81);
+    color: rgb(242, 245, 247);
+}
+
+
+h1 {
+
+    font-size: 3rem; /* Taille du texte plus grande */
+
+    padding-bottom: 10px; /* Ajout d'un espacement en bas */
+    border-bottom: 1px solid #f4b406; /* Bordure en bas */
+    display: inline-block; /* Permet d'aligner la bordure au centre */
+    line-height: 1;
+
+background-image: linear-gradient(to right, rgb(230, 186, 65), rgb(232, 207, 137)); /* Dégradé de couleur */
+-webkit-background-clip: text;
+color: transparent;
+
+}
+
+

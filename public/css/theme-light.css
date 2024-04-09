@@ -1,0 +1,45 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap'); */
+/* Body */
+body.theme-light {
+    background-color: #f9f6f6;
+    color: #662323;
+}
+
+
+
+.custom-title {
+    font-family: 'Pacifico', cursive;
+    font-size: 7rem;
+    color: #662323;
+    text-shadow: 2px 2px 4px rgba(136, 116, 116, 0.3);
+    margin-top: 2rem;
+    margin-bottom: 3rem;
+}
+
+h1 {
+
+        font-size: 3rem; /* Taille du texte plus grande */
+
+        padding-bottom: 10px; /* Ajout d'un espacement en bas */
+        border-bottom: 1px solid #f4b406; /* Bordure en bas */
+        display: inline-block; /* Permet d'aligner la bordure au centre */
+        line-height: 1;
+
+    background-image: linear-gradient(to right, #662323, #826868); /* Dégradé de couleur */
+    -webkit-background-clip: text;
+    color: transparent;
+
+}
+
+
+.btn-secondary{
+    background-color: rgb(236, 210, 137);
+    border-color: #f4b406;
+    color: #662323;
+}
+
+
+
+
+
