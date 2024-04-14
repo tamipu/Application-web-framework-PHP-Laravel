@@ -273,8 +273,4 @@ Le site est maintenant accessible à l'adresse `http://127.0.0.1:8000`.
 - Les tests de navigateur (Browser Tests) utilisent Laravel Dusk pour tester les interactions utilisateur à travers un navigateur web réel.
 
 
-## Remarques
-
-Nous avons rencontré quelques difficultés avec la configuration de l'authentification des utilisateurs.
-
 
