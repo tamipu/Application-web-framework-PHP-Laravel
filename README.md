@@ -245,7 +245,7 @@ Le site est maintenant accessible à l'adresse `http://127.0.0.1:8000`.
 <figure>
 <img src="sujet-file/demo/31.png" />
 <img src="sujet-file/demo/29.png" />
-<figcaption>Figure 14: Screen de la page avec le thème dark</figcaption>
+<figcaption>Figure 15: Screen de la page de créer un compte </figcaption>
 </figure>
 
 # Guide des Tests
