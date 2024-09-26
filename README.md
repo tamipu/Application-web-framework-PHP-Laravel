@@ -27,7 +27,7 @@ Le site sera composé de :
 1. Clonez le dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/MIASHS-UGA-PWS/pws-projet-2024-recettes-ta_zhang.git
+git clone git@github.com:tamipu/Application-web-framework-PHP-Laravel.git
 ```
 
 2. Installez les dépendances Composer :
